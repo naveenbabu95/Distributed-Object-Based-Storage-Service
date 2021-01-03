@@ -4,7 +4,7 @@ Temporary failures of servers were handled by sloppy quorum and hinted handoff a
 
 Coordination is the client and can be invoked using Postman on the client machines whereas the server and actual data is stored on the server machine, where Dynamo-Server resides.
 
-the 3 server replicas run on 
+The 3 server replicas run on 
 	"node1": "http://192.168.56.101:8000",
 	"node2": "http://192.168.56.105:8000",
 	"node3": "http://192.168.56.101:8000"
