@@ -1,0 +1,8 @@
+bucket/__pycache__/*
+dynamo/__pycache__/*
+bucket/migrations/*
+bucket/management/commands/__pycache__/*
+dynamo_env.json
+*.sql
+*.pdf
+*.tar.gz
